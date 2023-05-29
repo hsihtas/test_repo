@@ -1,2 +1,3 @@
 this is a samiple text for git repo
 
+sample repo created successfully!!!
